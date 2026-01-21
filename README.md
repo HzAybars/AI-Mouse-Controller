@@ -65,5 +65,4 @@ Sistem, MediaPipe kütüphanesi üzerinden elin 21 noktasını (landmark) takip 
 
 ## Lisans ve Yazar
 
-Bu proje **Hz.Aybars** tarafından geliştirilmiştir.
-Açık kaynaklıdır ve eğitim amaçlı kullanılabilir.
+Bu proje MIT Lisansı ile lisanslanmıştır.
